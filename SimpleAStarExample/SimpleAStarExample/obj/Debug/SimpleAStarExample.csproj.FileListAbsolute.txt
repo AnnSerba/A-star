@@ -1,0 +1,6 @@
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample\bin\Debug\SimpleAStarExample.exe.config
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample\bin\Debug\SimpleAStarExample.exe
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample\bin\Debug\SimpleAStarExample.pdb
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample\obj\Debug\SimpleAStarExample.csprojResolveAssemblyReference.cache
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample\obj\Debug\SimpleAStarExample.exe
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample\obj\Debug\SimpleAStarExample.pdb

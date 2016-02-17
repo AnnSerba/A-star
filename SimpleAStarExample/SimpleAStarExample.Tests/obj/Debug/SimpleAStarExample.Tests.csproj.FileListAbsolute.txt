@@ -1,0 +1,9 @@
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample.Tests\bin\Debug\SimpleAStarExample.Tests.dll
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample.Tests\bin\Debug\SimpleAStarExample.Tests.pdb
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample.Tests\bin\Debug\SimpleAStarExample.exe
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample.Tests\bin\Debug\SimpleAStarExample.pdb
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample.Tests\obj\Debug\SimpleAStarExample.Tests.csprojResolveAssemblyReference.cache
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample.Tests\obj\Debug\SimpleAStarExample.Tests.dll
+C:\Users\annse\Downloads\SimpleAStarExample\SimpleAStarExample\SimpleAStarExample.Tests\obj\Debug\SimpleAStarExample.Tests.pdb
